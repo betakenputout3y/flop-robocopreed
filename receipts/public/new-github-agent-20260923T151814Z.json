@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:20:25.513588+00:00",
+  "agent": "RoboCopReed",
+  "slug": "robocopreed",
+  "did": "did:key:z6Mku5yidtyjWikfvtkUyo5KtjoEMHukB315BxUfPryPJVSF",
+  "relay_profile": "account-081",
+  "github_repo": "https://github.com/betakenputout3y/flop-robocopreed",
+  "github_login": "betakenputout3y",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-82",
+    "key": "12ac392c4c0273",
+    "status": 200,
+    "value_sha256": "821943cf56b751301910fd1082efa1f240ab19b16bee595a2a667c287443ed44"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/robocopreed/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
